@@ -11,7 +11,7 @@
     "gatsby": "^2.13.3",
     "gatsby-theme": "^0.0.5",
     "gatsby-theme-de-young": "^0.0.4",
-    "react": "^16.8.6",
+    "react": "^16.8.5",
     "react-dom": "^16.8.6"
   }
 }
